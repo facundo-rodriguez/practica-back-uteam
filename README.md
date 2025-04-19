@@ -28,11 +28,4 @@ Se deben crear recursos para las siguientes acciones:
 - Se debe **parametrizar el número máximo de películas por persona**.  
   Es decir, un valor entero que determina la **máxima cantidad de películas que puede tener asociada una persona**.
 
----
 
-## 🚀 Cómo ejecutar
-
-Cloná el proyecto y ejecutá:
-
-```bash
-./mvnw spring-boot:run
