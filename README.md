@@ -1,7 +1,5 @@
 # practica-back-uteam
 
-# Prueba Técnica - Backend
-
 ## 📋 Requerimientos
 
 Se deben crear recursos para las siguientes acciones:
